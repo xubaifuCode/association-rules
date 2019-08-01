@@ -1,0 +1,3112 @@
+{
+  "2019-07-05": [
+    {
+      "host_win": "60",
+      "guest_win": "15",
+      "draw": "25",
+      "result": 1
+    },
+    {
+      "host_win": "53",
+      "guest_win": "21",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "33",
+      "guest_win": "39",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "67",
+      "guest_win": "11",
+      "draw": "22",
+      "result": 1
+    },
+    {
+      "host_win": "51",
+      "guest_win": "23",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "41",
+      "guest_win": "31",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "39",
+      "guest_win": "32",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "43",
+      "guest_win": "30",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "14",
+      "guest_win": "56",
+      "draw": "30",
+      "result": 0
+    }
+  ],
+  "2019-07-06": [
+    {
+      "host_win": "54",
+      "guest_win": "22",
+      "draw": "24",
+      "result": 1
+    },
+    {
+      "host_win": "40",
+      "guest_win": "34",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "60",
+      "guest_win": "14",
+      "draw": "25",
+      "result": 3
+    },
+    {
+      "host_win": "38",
+      "guest_win": "31",
+      "draw": "30",
+      "result": 1
+    },
+    {
+      "host_win": "45",
+      "guest_win": "27",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "46",
+      "guest_win": "27",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "48",
+      "guest_win": "25",
+      "draw": "27",
+      "result": 0
+    },
+    {
+      "host_win": "45",
+      "guest_win": "28",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "32",
+      "guest_win": "37",
+      "draw": "31",
+      "result": 3
+    },
+    {
+      "host_win": "37",
+      "guest_win": "32",
+      "draw": "31",
+      "result": 0
+    },
+    {
+      "host_win": "47",
+      "guest_win": "27",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "46",
+      "guest_win": "27",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "66",
+      "guest_win": "12",
+      "draw": "22",
+      "result": 3
+    },
+    {
+      "host_win": "47",
+      "guest_win": "26",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "37",
+      "guest_win": "36",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "27",
+      "guest_win": "44",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "60",
+      "guest_win": "16",
+      "draw": "24",
+      "result": 3
+    },
+    {
+      "host_win": "56",
+      "guest_win": "19",
+      "draw": "25",
+      "result": 0
+    },
+    {
+      "host_win": "32",
+      "guest_win": "37",
+      "draw": "30",
+      "result": 3
+    },
+    {
+      "host_win": "37",
+      "guest_win": "31",
+      "draw": "32",
+      "result": 3
+    },
+    {
+      "host_win": "76",
+      "guest_win": "7",
+      "draw": "17",
+      "result": 3
+    },
+    {
+      "host_win": "62",
+      "guest_win": "14",
+      "draw": "24",
+      "result": 0
+    },
+    {
+      "host_win": "52",
+      "guest_win": "22",
+      "draw": "26",
+      "result": 1
+    },
+    {
+      "host_win": "40",
+      "guest_win": "32",
+      "draw": "27",
+      "result": 0
+    },
+    {
+      "host_win": "33",
+      "guest_win": "41",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "50",
+      "guest_win": "24",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "56",
+      "guest_win": "20",
+      "draw": "24",
+      "result": 3
+    },
+    {
+      "host_win": "49",
+      "guest_win": "27",
+      "draw": "25",
+      "result": 3
+    },
+    {
+      "host_win": "69",
+      "guest_win": "10",
+      "draw": "20",
+      "result": 3
+    }
+  ],
+  "2019-06-30": [
+    {
+      "host_win": "36",
+      "guest_win": "37",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "26",
+      "guest_win": "45",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "43",
+      "guest_win": "28",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "16",
+      "guest_win": "58",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "37",
+      "guest_win": "34",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "29",
+      "guest_win": "40",
+      "draw": "30",
+      "result": 0
+    },
+    {
+      "host_win": "33",
+      "guest_win": "39",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "42",
+      "guest_win": "30",
+      "draw": "28",
+      "result": 0
+    },
+    {
+      "host_win": "37",
+      "guest_win": "35",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "29",
+      "guest_win": "44",
+      "draw": "28",
+      "result": 0
+    },
+    {
+      "host_win": "19",
+      "guest_win": "57",
+      "draw": "25",
+      "result": 1
+    },
+    {
+      "host_win": "35",
+      "guest_win": "36",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "34",
+      "guest_win": "34",
+      "draw": "31",
+      "result": 1
+    },
+    {
+      "host_win": "64",
+      "guest_win": "14",
+      "draw": "22",
+      "result": 0
+    },
+    {
+      "host_win": "43",
+      "guest_win": "28",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "42",
+      "guest_win": "30",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "41",
+      "guest_win": "31",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "45",
+      "guest_win": "27",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "44",
+      "guest_win": "28",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "53",
+      "guest_win": "21",
+      "draw": "26",
+      "result": 1
+    },
+    {
+      "host_win": "32",
+      "guest_win": "37",
+      "draw": "32",
+      "result": 1
+    },
+    {
+      "host_win": "85",
+      "guest_win": "3",
+      "draw": "12",
+      "result": 1
+    },
+    {
+      "host_win": "54",
+      "guest_win": "22",
+      "draw": "25",
+      "result": 3
+    },
+    {
+      "host_win": "18",
+      "guest_win": "47",
+      "draw": "35",
+      "result": 3
+    },
+    {
+      "host_win": "20",
+      "guest_win": "53",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "28",
+      "guest_win": "43",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "50",
+      "guest_win": "20",
+      "draw": "30",
+      "result": 3
+    }
+  ],
+  "2019-07-01": [
+    {
+      "host_win": "54",
+      "guest_win": "18",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "45",
+      "guest_win": "28",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "56",
+      "guest_win": "18",
+      "draw": "26",
+      "result": 1
+    },
+    {
+      "host_win": "9",
+      "guest_win": "69",
+      "draw": "22",
+      "result": 0
+    },
+    {
+      "host_win": "24",
+      "guest_win": "46",
+      "draw": "30",
+      "result": 0
+    },
+    {
+      "host_win": "12",
+      "guest_win": "54",
+      "draw": "34",
+      "result": 0
+    },
+    {
+      "host_win": "11",
+      "guest_win": "68",
+      "draw": "21",
+      "result": 0
+    }
+  ],
+  "2019-07-02": [
+    {
+      "host_win": "22",
+      "guest_win": "51",
+      "draw": "27",
+      "result": 0
+    },
+    {
+      "host_win": "51",
+      "guest_win": "20",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "8",
+      "guest_win": "75",
+      "draw": "17",
+      "result": 1
+    },
+    {
+      "host_win": "19",
+      "guest_win": "53",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "12",
+      "guest_win": "65",
+      "draw": "23",
+      "result": 0
+    },
+    {
+      "host_win": "22",
+      "guest_win": "47",
+      "draw": "31",
+      "result": 0
+    },
+    {
+      "host_win": "17",
+      "guest_win": "57",
+      "draw": "26",
+      "result": 1
+    }
+  ],
+  "2019-07-03": [
+    {
+      "host_win": "39",
+      "guest_win": "32",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "53",
+      "guest_win": "19",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "58",
+      "guest_win": "17",
+      "draw": "25",
+      "result": 0
+    },
+    {
+      "host_win": "43",
+      "guest_win": "28",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "40",
+      "guest_win": "30",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "59",
+      "guest_win": "17",
+      "draw": "24",
+      "result": 3
+    },
+    {
+      "host_win": "47",
+      "guest_win": "27",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "50",
+      "guest_win": "24",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "53",
+      "guest_win": "23",
+      "draw": "24",
+      "result": 3
+    },
+    {
+      "host_win": "48",
+      "guest_win": "22",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "33",
+      "guest_win": "41",
+      "draw": "25",
+      "result": 0
+    },
+    {
+      "host_win": "58",
+      "guest_win": "20",
+      "draw": "22",
+      "result": 3
+    },
+    {
+      "host_win": "56",
+      "guest_win": "20",
+      "draw": "25",
+      "result": 3
+    },
+    {
+      "host_win": "66",
+      "guest_win": "11",
+      "draw": "24",
+      "result": 3
+    }
+  ],
+  "2019-06-01": [
+    {
+      "host_win": "23",
+      "guest_win": "49",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "54",
+      "guest_win": "20",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "38",
+      "guest_win": "35",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "28",
+      "guest_win": "46",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "31",
+      "guest_win": "39",
+      "draw": "30",
+      "result": 0
+    },
+    {
+      "host_win": "39",
+      "guest_win": "34",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "68",
+      "guest_win": "12",
+      "draw": "20",
+      "result": 3
+    },
+    {
+      "host_win": "29",
+      "guest_win": "40",
+      "draw": "30",
+      "result": 0
+    },
+    {
+      "host_win": "50",
+      "guest_win": "23",
+      "draw": "27",
+      "result": 0
+    },
+    {
+      "host_win": "30",
+      "guest_win": "42",
+      "draw": "28",
+      "result": 0
+    },
+    {
+      "host_win": "37",
+      "guest_win": "34",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "45",
+      "guest_win": "26",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "28",
+      "guest_win": "45",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "58",
+      "guest_win": "17",
+      "draw": "24",
+      "result": 1
+    },
+    {
+      "host_win": "42",
+      "guest_win": "28",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "20",
+      "guest_win": "56",
+      "draw": "24",
+      "result": 0
+    },
+    {
+      "host_win": "56",
+      "guest_win": "20",
+      "draw": "24",
+      "result": 0
+    },
+    {
+      "host_win": "25",
+      "guest_win": "46",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "44",
+      "guest_win": "28",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "70",
+      "guest_win": "10",
+      "draw": "19",
+      "result": 3
+    },
+    {
+      "host_win": "56",
+      "guest_win": "19",
+      "draw": "25",
+      "result": 0
+    },
+    {
+      "host_win": "36",
+      "guest_win": "34",
+      "draw": "30",
+      "result": 3
+    },
+    {
+      "host_win": "63",
+      "guest_win": "16",
+      "draw": "21",
+      "result": 3
+    },
+    {
+      "host_win": "58",
+      "guest_win": "18",
+      "draw": "24",
+      "result": 3
+    },
+    {
+      "host_win": "42",
+      "guest_win": "31",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "56",
+      "guest_win": "20",
+      "draw": "24",
+      "result": 1
+    },
+    {
+      "host_win": "45",
+      "guest_win": "29",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "50",
+      "guest_win": "25",
+      "draw": "25",
+      "result": 1
+    },
+    {
+      "host_win": "48",
+      "guest_win": "26",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "33",
+      "guest_win": "41",
+      "draw": "26",
+      "result": 0
+    }
+  ],
+  "2019-06-02": [
+    {
+      "host_win": "27",
+      "guest_win": "42",
+      "draw": "31",
+      "result": 1
+    },
+    {
+      "host_win": "53",
+      "guest_win": "18",
+      "draw": "30",
+      "result": 3
+    },
+    {
+      "host_win": "35",
+      "guest_win": "35",
+      "draw": "30",
+      "result": 0
+    },
+    {
+      "host_win": "44",
+      "guest_win": "28",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "46",
+      "guest_win": "24",
+      "draw": "30",
+      "result": 1
+    },
+    {
+      "host_win": "46",
+      "guest_win": "23",
+      "draw": "31",
+      "result": 1
+    },
+    {
+      "host_win": "39",
+      "guest_win": "33",
+      "draw": "28",
+      "result": 0
+    },
+    {
+      "host_win": "31",
+      "guest_win": "41",
+      "draw": "27",
+      "result": 0
+    },
+    {
+      "host_win": "65",
+      "guest_win": "13",
+      "draw": "22",
+      "result": 3
+    },
+    {
+      "host_win": "32",
+      "guest_win": "37",
+      "draw": "30",
+      "result": 0
+    },
+    {
+      "host_win": "42",
+      "guest_win": "30",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "22",
+      "guest_win": "52",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "48",
+      "guest_win": "22",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "31",
+      "guest_win": "42",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "47",
+      "guest_win": "25",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "20",
+      "guest_win": "55",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "39",
+      "guest_win": "31",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "31",
+      "guest_win": "39",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "54",
+      "guest_win": "20",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "36",
+      "guest_win": "36",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "44",
+      "guest_win": "25",
+      "draw": "31",
+      "result": 1
+    },
+    {
+      "host_win": "39",
+      "guest_win": "34",
+      "draw": "27",
+      "result": 0
+    },
+    {
+      "host_win": "18",
+      "guest_win": "56",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "72",
+      "guest_win": "9",
+      "draw": "19",
+      "result": 3
+    },
+    {
+      "host_win": "69",
+      "guest_win": "9",
+      "draw": "22",
+      "result": 3
+    },
+    {
+      "host_win": "64",
+      "guest_win": "14",
+      "draw": "22",
+      "result": 0
+    },
+    {
+      "host_win": "25",
+      "guest_win": "46",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "49",
+      "guest_win": "22",
+      "draw": "29",
+      "result": 1
+    }
+  ],
+  "2019-06-03": [
+    {
+      "host_win": "59",
+      "guest_win": "15",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "37",
+      "guest_win": "32",
+      "draw": "31",
+      "result": 0
+    },
+    {
+      "host_win": "38",
+      "guest_win": "31",
+      "draw": "32",
+      "result": 3
+    }
+  ],
+  "2019-06-04": [
+    {
+      "host_win": "59",
+      "guest_win": "15",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "39",
+      "guest_win": "31",
+      "draw": "31",
+      "result": 0
+    },
+    {
+      "host_win": "58",
+      "guest_win": "16",
+      "draw": "26",
+      "result": 1
+    },
+    {
+      "host_win": "54",
+      "guest_win": "17",
+      "draw": "29",
+      "result": 3
+    }
+  ],
+  "2019-06-05": [
+    {
+      "host_win": "58",
+      "guest_win": "17",
+      "draw": "25",
+      "result": 3
+    },
+    {
+      "host_win": "54",
+      "guest_win": "18",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "55",
+      "guest_win": "20",
+      "draw": "25",
+      "result": 1
+    }
+  ],
+  "2019-06-06": [
+    {
+      "host_win": "32",
+      "guest_win": "39",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "53",
+      "guest_win": "19",
+      "draw": "28",
+      "result": 0
+    },
+    {
+      "host_win": "70",
+      "guest_win": "10",
+      "draw": "20",
+      "result": 3
+    }
+  ],
+  "2019-06-07": [
+    {
+      "host_win": "42",
+      "guest_win": "27",
+      "draw": "31",
+      "result": 0
+    },
+    {
+      "host_win": "48",
+      "guest_win": "23",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "56",
+      "guest_win": "18",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "40",
+      "guest_win": "29",
+      "draw": "30",
+      "result": 1
+    },
+    {
+      "host_win": "36",
+      "guest_win": "34",
+      "draw": "30",
+      "result": 3
+    },
+    {
+      "host_win": "2",
+      "guest_win": "93",
+      "draw": "6",
+      "result": 0
+    },
+    {
+      "host_win": "44",
+      "guest_win": "26",
+      "draw": "30",
+      "result": 1
+    },
+    {
+      "host_win": "55",
+      "guest_win": "19",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "19",
+      "guest_win": "56",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "58",
+      "guest_win": "16",
+      "draw": "25",
+      "result": 1
+    },
+    {
+      "host_win": "19",
+      "guest_win": "54",
+      "draw": "27",
+      "result": 0
+    },
+    {
+      "host_win": "84",
+      "guest_win": "4",
+      "draw": "12",
+      "result": 3
+    },
+    {
+      "host_win": "43",
+      "guest_win": "30",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "30",
+      "guest_win": "40",
+      "draw": "30",
+      "result": 3
+    }
+  ],
+  "2019-06-08": [
+    {
+      "host_win": "37",
+      "guest_win": "33",
+      "draw": "30",
+      "result": 0
+    },
+    {
+      "host_win": "45",
+      "guest_win": "25",
+      "draw": "30",
+      "result": 1
+    },
+    {
+      "host_win": "24",
+      "guest_win": "49",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "42",
+      "guest_win": "30",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "41",
+      "guest_win": "30",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "31",
+      "guest_win": "41",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "29",
+      "guest_win": "44",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "74",
+      "guest_win": "9",
+      "draw": "17",
+      "result": 3
+    },
+    {
+      "host_win": "61",
+      "guest_win": "15",
+      "draw": "24",
+      "result": 3
+    },
+    {
+      "host_win": "57",
+      "guest_win": "17",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "39",
+      "guest_win": "32",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "83",
+      "guest_win": "4",
+      "draw": "13",
+      "result": 3
+    },
+    {
+      "host_win": "21",
+      "guest_win": "50",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "28",
+      "guest_win": "42",
+      "draw": "30",
+      "result": 0
+    },
+    {
+      "host_win": "31",
+      "guest_win": "40",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "30",
+      "guest_win": "41",
+      "draw": "30",
+      "result": 1
+    },
+    {
+      "host_win": "6",
+      "guest_win": "81",
+      "draw": "14",
+      "result": 0
+    },
+    {
+      "host_win": "16",
+      "guest_win": "61",
+      "draw": "24",
+      "result": 3
+    },
+    {
+      "host_win": "62",
+      "guest_win": "14",
+      "draw": "24",
+      "result": 3
+    },
+    {
+      "host_win": "22",
+      "guest_win": "48",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "67",
+      "guest_win": "11",
+      "draw": "22",
+      "result": 3
+    },
+    {
+      "host_win": "45",
+      "guest_win": "29",
+      "draw": "26",
+      "result": 1
+    },
+    {
+      "host_win": "66",
+      "guest_win": "12",
+      "draw": "22",
+      "result": 3
+    },
+    {
+      "host_win": "52",
+      "guest_win": "19",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "38",
+      "guest_win": "30",
+      "draw": "31",
+      "result": 1
+    },
+    {
+      "host_win": "49",
+      "guest_win": "25",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "34",
+      "guest_win": "35",
+      "draw": "31",
+      "result": 1
+    },
+    {
+      "host_win": "44",
+      "guest_win": "29",
+      "draw": "27",
+      "result": 3
+    }
+  ],
+  "2019-06-09": [
+    {
+      "host_win": "33",
+      "guest_win": "36",
+      "draw": "31",
+      "result": 3
+    },
+    {
+      "host_win": "44",
+      "guest_win": "27",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "31",
+      "guest_win": "39",
+      "draw": "30",
+      "result": 1
+    },
+    {
+      "host_win": "15",
+      "guest_win": "60",
+      "draw": "24",
+      "result": 3
+    },
+    {
+      "host_win": "58",
+      "guest_win": "18",
+      "draw": "24",
+      "result": 0
+    },
+    {
+      "host_win": "77",
+      "guest_win": "7",
+      "draw": "16",
+      "result": 3
+    },
+    {
+      "host_win": "19",
+      "guest_win": "53",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "53",
+      "guest_win": "22",
+      "draw": "25",
+      "result": 3
+    },
+    {
+      "host_win": "34",
+      "guest_win": "36",
+      "draw": "30",
+      "result": 0
+    },
+    {
+      "host_win": "24",
+      "guest_win": "49",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "40",
+      "guest_win": "32",
+      "draw": "29",
+      "result": 3
+    }
+  ],
+  "2019-06-10": [
+    {
+      "host_win": "3",
+      "guest_win": "86",
+      "draw": "11",
+      "result": 1
+    },
+    {
+      "host_win": "52",
+      "guest_win": "22",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "53",
+      "guest_win": "20",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "82",
+      "guest_win": "5",
+      "draw": "13",
+      "result": 3
+    },
+    {
+      "host_win": "71",
+      "guest_win": "9",
+      "draw": "20",
+      "result": 3
+    },
+    {
+      "host_win": "13",
+      "guest_win": "65",
+      "draw": "22",
+      "result": 0
+    },
+    {
+      "host_win": "74",
+      "guest_win": "10",
+      "draw": "16",
+      "result": 3
+    },
+    {
+      "host_win": "22",
+      "guest_win": "52",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "67",
+      "guest_win": "14",
+      "draw": "20",
+      "result": 3
+    },
+    {
+      "host_win": "22",
+      "guest_win": "49",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "82",
+      "guest_win": "4",
+      "draw": "14",
+      "result": 3
+    },
+    {
+      "host_win": "53",
+      "guest_win": "21",
+      "draw": "27",
+      "result": 3
+    }
+  ],
+  "2019-06-11": [
+    {
+      "host_win": "10",
+      "guest_win": "72",
+      "draw": "19",
+      "result": 0
+    },
+    {
+      "host_win": "30",
+      "guest_win": "40",
+      "draw": "31",
+      "result": 3
+    },
+    {
+      "host_win": "24",
+      "guest_win": "47",
+      "draw": "30",
+      "result": 0
+    },
+    {
+      "host_win": "46",
+      "guest_win": "25",
+      "draw": "30",
+      "result": 0
+    },
+    {
+      "host_win": "81",
+      "guest_win": "7",
+      "draw": "13",
+      "result": 3
+    },
+    {
+      "host_win": "74",
+      "guest_win": "10",
+      "draw": "16",
+      "result": 3
+    },
+    {
+      "host_win": "34",
+      "guest_win": "36",
+      "draw": "31",
+      "result": 0
+    },
+    {
+      "host_win": "92",
+      "guest_win": "2",
+      "draw": "6",
+      "result": 3
+    },
+    {
+      "host_win": "34",
+      "guest_win": "36",
+      "draw": "31",
+      "result": 3
+    },
+    {
+      "host_win": "39",
+      "guest_win": "32",
+      "draw": "30",
+      "result": 3
+    },
+    {
+      "host_win": "65",
+      "guest_win": "13",
+      "draw": "22",
+      "result": 0
+    },
+    {
+      "host_win": "58",
+      "guest_win": "16",
+      "draw": "25",
+      "result": 3
+    }
+  ],
+  "2019-06-12": [
+    {
+      "host_win": "23",
+      "guest_win": "51",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "55",
+      "guest_win": "20",
+      "draw": "25",
+      "result": 3
+    },
+    {
+      "host_win": "70",
+      "guest_win": "10",
+      "draw": "20",
+      "result": 3
+    },
+    {
+      "host_win": "32",
+      "guest_win": "37",
+      "draw": "30",
+      "result": 0
+    },
+    {
+      "host_win": "33",
+      "guest_win": "39",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "31",
+      "guest_win": "40",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "51",
+      "guest_win": "21",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "54",
+      "guest_win": "19",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "6",
+      "guest_win": "75",
+      "draw": "19",
+      "result": 0
+    },
+    {
+      "host_win": "40",
+      "guest_win": "33",
+      "draw": "28",
+      "result": 0
+    }
+  ],
+  "2019-06-13": [
+    {
+      "host_win": "43",
+      "guest_win": "30",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "14",
+      "guest_win": "63",
+      "draw": "23",
+      "result": 0
+    },
+    {
+      "host_win": "47",
+      "guest_win": "24",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "47",
+      "guest_win": "25",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "34",
+      "guest_win": "36",
+      "draw": "30",
+      "result": 3
+    },
+    {
+      "host_win": "79",
+      "guest_win": "6",
+      "draw": "14",
+      "result": 3
+    },
+    {
+      "host_win": "37",
+      "guest_win": "32",
+      "draw": "30",
+      "result": 1
+    }
+  ],
+  "2019-06-14": [
+    {
+      "host_win": "60",
+      "guest_win": "17",
+      "draw": "23",
+      "result": 1
+    },
+    {
+      "host_win": "45",
+      "guest_win": "25",
+      "draw": "30",
+      "result": 3
+    },
+    {
+      "host_win": "49",
+      "guest_win": "24",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "59",
+      "guest_win": "18",
+      "draw": "23",
+      "result": 3
+    },
+    {
+      "host_win": "41",
+      "guest_win": "30",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "85",
+      "guest_win": "4",
+      "draw": "10",
+      "result": 3
+    },
+    {
+      "host_win": "87",
+      "guest_win": "2",
+      "draw": "11",
+      "result": 3
+    }
+  ],
+  "2019-06-15": [
+    {
+      "host_win": "29",
+      "guest_win": "45",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "40",
+      "guest_win": "31",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "68",
+      "guest_win": "10",
+      "draw": "22",
+      "result": 3
+    },
+    {
+      "host_win": "57",
+      "guest_win": "18",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "38",
+      "guest_win": "34",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "60",
+      "guest_win": "14",
+      "draw": "26",
+      "result": 1
+    },
+    {
+      "host_win": "56",
+      "guest_win": "20",
+      "draw": "25",
+      "result": 0
+    },
+    {
+      "host_win": "36",
+      "guest_win": "36",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "38",
+      "guest_win": "33",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "37",
+      "guest_win": "36",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "42",
+      "guest_win": "29",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "47",
+      "guest_win": "26",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "45",
+      "guest_win": "26",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "39",
+      "guest_win": "29",
+      "draw": "32",
+      "result": 3
+    },
+    {
+      "host_win": "53",
+      "guest_win": "21",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "13",
+      "guest_win": "66",
+      "draw": "21",
+      "result": 0
+    },
+    {
+      "host_win": "39",
+      "guest_win": "32",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "54",
+      "guest_win": "20",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "52",
+      "guest_win": "22",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "82",
+      "guest_win": "4",
+      "draw": "14",
+      "result": 3
+    },
+    {
+      "host_win": "34",
+      "guest_win": "34",
+      "draw": "32",
+      "result": 3
+    },
+    {
+      "host_win": "37",
+      "guest_win": "34",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "66",
+      "guest_win": "12",
+      "draw": "22",
+      "result": 3
+    },
+    {
+      "host_win": "28",
+      "guest_win": "41",
+      "draw": "31",
+      "result": 1
+    },
+    {
+      "host_win": "45",
+      "guest_win": "25",
+      "draw": "30",
+      "result": 0
+    },
+    {
+      "host_win": "66",
+      "guest_win": "13",
+      "draw": "21",
+      "result": 1
+    }
+  ],
+  "2019-06-16": [
+    {
+      "host_win": "39",
+      "guest_win": "30",
+      "draw": "31",
+      "result": 1
+    },
+    {
+      "host_win": "21",
+      "guest_win": "50",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "43",
+      "guest_win": "28",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "42",
+      "guest_win": "29",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "95",
+      "guest_win": "1",
+      "draw": "4",
+      "result": 3
+    },
+    {
+      "host_win": "58",
+      "guest_win": "18",
+      "draw": "24",
+      "result": 3
+    },
+    {
+      "host_win": "46",
+      "guest_win": "28",
+      "draw": "27",
+      "result": 0
+    },
+    {
+      "host_win": "39",
+      "guest_win": "33",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "72",
+      "guest_win": "10",
+      "draw": "18",
+      "result": 3
+    },
+    {
+      "host_win": "37",
+      "guest_win": "34",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "48",
+      "guest_win": "25",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "57",
+      "guest_win": "15",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "55",
+      "guest_win": "16",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "68",
+      "guest_win": "12",
+      "draw": "21",
+      "result": 1
+    },
+    {
+      "host_win": "78",
+      "guest_win": "7",
+      "draw": "15",
+      "result": 1
+    }
+  ],
+  "2019-06-17": [
+    {
+      "host_win": "41",
+      "guest_win": "31",
+      "draw": "27",
+      "result": 0
+    },
+    {
+      "host_win": "12",
+      "guest_win": "66",
+      "draw": "22",
+      "result": 0
+    },
+    {
+      "host_win": "29",
+      "guest_win": "42",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "43",
+      "guest_win": "27",
+      "draw": "30",
+      "result": 1
+    },
+    {
+      "host_win": "19",
+      "guest_win": "52",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "3",
+      "guest_win": "87",
+      "draw": "10",
+      "result": 0
+    },
+    {
+      "host_win": "80",
+      "guest_win": "7",
+      "draw": "13",
+      "result": 3
+    },
+    {
+      "host_win": "18",
+      "guest_win": "60",
+      "draw": "22",
+      "result": 0
+    }
+  ],
+  "2019-06-18": [
+    {
+      "host_win": "51",
+      "guest_win": "22",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "50",
+      "guest_win": "24",
+      "draw": "26",
+      "result": 1
+    },
+    {
+      "host_win": "19",
+      "guest_win": "52",
+      "draw": "28",
+      "result": 0
+    },
+    {
+      "host_win": "35",
+      "guest_win": "37",
+      "draw": "28",
+      "result": 0
+    },
+    {
+      "host_win": "45",
+      "guest_win": "26",
+      "draw": "30",
+      "result": 1
+    },
+    {
+      "host_win": "81",
+      "guest_win": "5",
+      "draw": "13",
+      "result": 1
+    },
+    {
+      "host_win": "91",
+      "guest_win": "2",
+      "draw": "7",
+      "result": 1
+    },
+    {
+      "host_win": "33",
+      "guest_win": "38",
+      "draw": "29",
+      "result": 0
+    }
+  ],
+  "2019-06-19": [
+    {
+      "host_win": "43",
+      "guest_win": "27",
+      "draw": "30",
+      "result": 3
+    },
+    {
+      "host_win": "58",
+      "guest_win": "18",
+      "draw": "24",
+      "result": 3
+    },
+    {
+      "host_win": "41",
+      "guest_win": "27",
+      "draw": "31",
+      "result": 1
+    },
+    {
+      "host_win": "38",
+      "guest_win": "32",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "67",
+      "guest_win": "11",
+      "draw": "22",
+      "result": 3
+    },
+    {
+      "host_win": "38",
+      "guest_win": "35",
+      "draw": "27",
+      "result": 0
+    },
+    {
+      "host_win": "66",
+      "guest_win": "12",
+      "draw": "22",
+      "result": 1
+    },
+    {
+      "host_win": "55",
+      "guest_win": "21",
+      "draw": "24",
+      "result": 3
+    },
+    {
+      "host_win": "79",
+      "guest_win": "6",
+      "draw": "15",
+      "result": 1
+    },
+    {
+      "host_win": "26",
+      "guest_win": "46",
+      "draw": "28",
+      "result": 0
+    },
+    {
+      "host_win": "46",
+      "guest_win": "27",
+      "draw": "28",
+      "result": 1
+    }
+  ],
+  "2019-06-20": [
+    {
+      "host_win": "67",
+      "guest_win": "11",
+      "draw": "22",
+      "result": 1
+    },
+    {
+      "host_win": "71",
+      "guest_win": "10",
+      "draw": "19",
+      "result": 3
+    },
+    {
+      "host_win": "17",
+      "guest_win": "57",
+      "draw": "25",
+      "result": 1
+    },
+    {
+      "host_win": "90",
+      "guest_win": "2",
+      "draw": "8",
+      "result": 1
+    },
+    {
+      "host_win": "30",
+      "guest_win": "42",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "39",
+      "guest_win": "34",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "13",
+      "guest_win": "66",
+      "draw": "21",
+      "result": 0
+    }
+  ],
+  "2019-06-21": [
+    {
+      "host_win": "44",
+      "guest_win": "27",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "71",
+      "guest_win": "7",
+      "draw": "22",
+      "result": 3
+    },
+    {
+      "host_win": "21",
+      "guest_win": "50",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "22",
+      "guest_win": "48",
+      "draw": "30",
+      "result": 1
+    },
+    {
+      "host_win": "43",
+      "guest_win": "28",
+      "draw": "30",
+      "result": 1
+    }
+  ],
+  "2019-06-22": [
+    {
+      "host_win": "47",
+      "guest_win": "24",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "40",
+      "guest_win": "34",
+      "draw": "26",
+      "result": 1
+    },
+    {
+      "host_win": "58",
+      "guest_win": "19",
+      "draw": "24",
+      "result": 3
+    },
+    {
+      "host_win": "24",
+      "guest_win": "50",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "38",
+      "guest_win": "30",
+      "draw": "32",
+      "result": 1
+    },
+    {
+      "host_win": "45",
+      "guest_win": "27",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "36",
+      "guest_win": "34",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "45",
+      "guest_win": "24",
+      "draw": "31",
+      "result": 3
+    },
+    {
+      "host_win": "45",
+      "guest_win": "25",
+      "draw": "30",
+      "result": 3
+    },
+    {
+      "host_win": "41",
+      "guest_win": "31",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "51",
+      "guest_win": "25",
+      "draw": "24",
+      "result": 0
+    },
+    {
+      "host_win": "27",
+      "guest_win": "44",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "48",
+      "guest_win": "23",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "59",
+      "guest_win": "15",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "44",
+      "guest_win": "28",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "29",
+      "guest_win": "42",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "48",
+      "guest_win": "25",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "39",
+      "guest_win": "32",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "54",
+      "guest_win": "18",
+      "draw": "27",
+      "result": 0
+    },
+    {
+      "host_win": "25",
+      "guest_win": "50",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "72",
+      "guest_win": "7",
+      "draw": "21",
+      "result": 3
+    },
+    {
+      "host_win": "17",
+      "guest_win": "57",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "75",
+      "guest_win": "8",
+      "draw": "18",
+      "result": 3
+    },
+    {
+      "host_win": "60",
+      "guest_win": "14",
+      "draw": "26",
+      "result": 1
+    },
+    {
+      "host_win": "5",
+      "guest_win": "80",
+      "draw": "14",
+      "result": 1
+    },
+    {
+      "host_win": "39",
+      "guest_win": "36",
+      "draw": "25",
+      "result": 0
+    },
+    {
+      "host_win": "82",
+      "guest_win": "5",
+      "draw": "12",
+      "result": 1
+    },
+    {
+      "host_win": "49",
+      "guest_win": "25",
+      "draw": "26",
+      "result": 1
+    },
+    {
+      "host_win": "60",
+      "guest_win": "18",
+      "draw": "22",
+      "result": 1
+    },
+    {
+      "host_win": "50",
+      "guest_win": "23",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "48",
+      "guest_win": "25",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "81",
+      "guest_win": "6",
+      "draw": "13",
+      "result": 3
+    },
+    {
+      "host_win": "33",
+      "guest_win": "40",
+      "draw": "28",
+      "result": 1
+    }
+  ],
+  "2019-06-23": [
+    {
+      "host_win": "34",
+      "guest_win": "34",
+      "draw": "32",
+      "result": 1
+    },
+    {
+      "host_win": "29",
+      "guest_win": "42",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "42",
+      "guest_win": "30",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "60",
+      "guest_win": "17",
+      "draw": "23",
+      "result": 1
+    },
+    {
+      "host_win": "46",
+      "guest_win": "27",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "64",
+      "guest_win": "13",
+      "draw": "23",
+      "result": 3
+    },
+    {
+      "host_win": "54",
+      "guest_win": "20",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "49",
+      "guest_win": "24",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "44",
+      "guest_win": "28",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "39",
+      "guest_win": "35",
+      "draw": "27",
+      "result": 0
+    },
+    {
+      "host_win": "26",
+      "guest_win": "47",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "71",
+      "guest_win": "8",
+      "draw": "21",
+      "result": 3
+    },
+    {
+      "host_win": "65",
+      "guest_win": "13",
+      "draw": "22",
+      "result": 3
+    },
+    {
+      "host_win": "55",
+      "guest_win": "19",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "5",
+      "guest_win": "79",
+      "draw": "16",
+      "result": 0
+    },
+    {
+      "host_win": "66",
+      "guest_win": "12",
+      "draw": "22",
+      "result": 3
+    },
+    {
+      "host_win": "41",
+      "guest_win": "31",
+      "draw": "27",
+      "result": 0
+    },
+    {
+      "host_win": "82",
+      "guest_win": "5",
+      "draw": "12",
+      "result": 3
+    },
+    {
+      "host_win": "66",
+      "guest_win": "13",
+      "draw": "21",
+      "result": 1
+    },
+    {
+      "host_win": "1",
+      "guest_win": "92",
+      "draw": "7",
+      "result": 1
+    }
+  ],
+  "2019-06-24": [
+    {
+      "host_win": "47",
+      "guest_win": "24",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "53",
+      "guest_win": "20",
+      "draw": "26",
+      "result": 1
+    },
+    {
+      "host_win": "50",
+      "guest_win": "23",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "24",
+      "guest_win": "48",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "57",
+      "guest_win": "18",
+      "draw": "25",
+      "result": 1
+    },
+    {
+      "host_win": "12",
+      "guest_win": "67",
+      "draw": "21",
+      "result": 0
+    },
+    {
+      "host_win": "28",
+      "guest_win": "42",
+      "draw": "30",
+      "result": 3
+    },
+    {
+      "host_win": "13",
+      "guest_win": "64",
+      "draw": "23",
+      "result": 1
+    }
+  ],
+  "2019-06-25": [
+    {
+      "host_win": "42",
+      "guest_win": "28",
+      "draw": "30",
+      "result": 1
+    },
+    {
+      "host_win": "42",
+      "guest_win": "29",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "55",
+      "guest_win": "19",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "47",
+      "guest_win": "24",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "58",
+      "guest_win": "16",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "52",
+      "guest_win": "22",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "58",
+      "guest_win": "15",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "53",
+      "guest_win": "19",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "30",
+      "guest_win": "39",
+      "draw": "32",
+      "result": 1
+    }
+  ],
+  "2019-06-26": [
+    {
+      "host_win": "57",
+      "guest_win": "17",
+      "draw": "26",
+      "result": 1
+    },
+    {
+      "host_win": "34",
+      "guest_win": "34",
+      "draw": "33",
+      "result": 1
+    },
+    {
+      "host_win": "64",
+      "guest_win": "12",
+      "draw": "23",
+      "result": 0
+    },
+    {
+      "host_win": "49",
+      "guest_win": "22",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "38",
+      "guest_win": "32",
+      "draw": "30",
+      "result": 3
+    },
+    {
+      "host_win": "48",
+      "guest_win": "22",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "39",
+      "guest_win": "35",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "42",
+      "guest_win": "30",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "48",
+      "guest_win": "26",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "40",
+      "guest_win": "32",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "67",
+      "guest_win": "11",
+      "draw": "22",
+      "result": 1
+    },
+    {
+      "host_win": "60",
+      "guest_win": "18",
+      "draw": "22",
+      "result": 1
+    },
+    {
+      "host_win": "46",
+      "guest_win": "29",
+      "draw": "25",
+      "result": 3
+    },
+    {
+      "host_win": "55",
+      "guest_win": "18",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "47",
+      "guest_win": "22",
+      "draw": "31",
+      "result": 1
+    },
+    {
+      "host_win": "54",
+      "guest_win": "18",
+      "draw": "27",
+      "result": 3
+    }
+  ],
+  "2019-06-27": [
+    {
+      "host_win": "37",
+      "guest_win": "31",
+      "draw": "32",
+      "result": 3
+    },
+    {
+      "host_win": "43",
+      "guest_win": "27",
+      "draw": "30",
+      "result": 0
+    },
+    {
+      "host_win": "26",
+      "guest_win": "46",
+      "draw": "28",
+      "result": 0
+    },
+    {
+      "host_win": "43",
+      "guest_win": "27",
+      "draw": "30",
+      "result": 3
+    },
+    {
+      "host_win": "80",
+      "guest_win": "6",
+      "draw": "15",
+      "result": 1
+    }
+  ],
+  "2019-06-28": [
+    {
+      "host_win": "32",
+      "guest_win": "37",
+      "draw": "30",
+      "result": 3
+    },
+    {
+      "host_win": "40",
+      "guest_win": "29",
+      "draw": "31",
+      "result": 1
+    },
+    {
+      "host_win": "38",
+      "guest_win": "35",
+      "draw": "28",
+      "result": 0
+    },
+    {
+      "host_win": "32",
+      "guest_win": "36",
+      "draw": "32",
+      "result": 3
+    },
+    {
+      "host_win": "32",
+      "guest_win": "40",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "13",
+      "guest_win": "65",
+      "draw": "22",
+      "result": 0
+    },
+    {
+      "host_win": "60",
+      "guest_win": "15",
+      "draw": "25",
+      "result": 3
+    },
+    {
+      "host_win": "46",
+      "guest_win": "26",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "56",
+      "guest_win": "20",
+      "draw": "24",
+      "result": 3
+    },
+    {
+      "host_win": "22",
+      "guest_win": "55",
+      "draw": "23",
+      "result": 1
+    }
+  ],
+  "2019-06-29": [
+    {
+      "host_win": "33",
+      "guest_win": "38",
+      "draw": "30",
+      "result": 0
+    },
+    {
+      "host_win": "41",
+      "guest_win": "32",
+      "draw": "27",
+      "result": 0
+    },
+    {
+      "host_win": "41",
+      "guest_win": "30",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "35",
+      "guest_win": "33",
+      "draw": "32",
+      "result": 0
+    },
+    {
+      "host_win": "47",
+      "guest_win": "26",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "47",
+      "guest_win": "24",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "42",
+      "guest_win": "29",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "42",
+      "guest_win": "29",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "31",
+      "guest_win": "40",
+      "draw": "29",
+      "result": 0
+    },
+    {
+      "host_win": "37",
+      "guest_win": "31",
+      "draw": "32",
+      "result": 1
+    },
+    {
+      "host_win": "29",
+      "guest_win": "41",
+      "draw": "30",
+      "result": 0
+    },
+    {
+      "host_win": "30",
+      "guest_win": "41",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "45",
+      "guest_win": "29",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "26",
+      "guest_win": "46",
+      "draw": "28",
+      "result": 0
+    },
+    {
+      "host_win": "34",
+      "guest_win": "37",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "30",
+      "guest_win": "39",
+      "draw": "31",
+      "result": 1
+    },
+    {
+      "host_win": "30",
+      "guest_win": "42",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "57",
+      "guest_win": "18",
+      "draw": "24",
+      "result": 3
+    },
+    {
+      "host_win": "49",
+      "guest_win": "23",
+      "draw": "28",
+      "result": 0
+    },
+    {
+      "host_win": "32",
+      "guest_win": "35",
+      "draw": "33",
+      "result": 1
+    },
+    {
+      "host_win": "57",
+      "guest_win": "16",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "43",
+      "guest_win": "27",
+      "draw": "30",
+      "result": 1
+    },
+    {
+      "host_win": "58",
+      "guest_win": "17",
+      "draw": "25",
+      "result": 3
+    },
+    {
+      "host_win": "51",
+      "guest_win": "22",
+      "draw": "27",
+      "result": 1
+    },
+    {
+      "host_win": "62",
+      "guest_win": "14",
+      "draw": "24",
+      "result": 3
+    },
+    {
+      "host_win": "27",
+      "guest_win": "45",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "49",
+      "guest_win": "25",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "46",
+      "guest_win": "27",
+      "draw": "28",
+      "result": 0
+    },
+    {
+      "host_win": "45",
+      "guest_win": "28",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "47",
+      "guest_win": "27",
+      "draw": "26",
+      "result": 1
+    },
+    {
+      "host_win": "57",
+      "guest_win": "18",
+      "draw": "25",
+      "result": 1
+    },
+    {
+      "host_win": "44",
+      "guest_win": "31",
+      "draw": "25",
+      "result": 3
+    },
+    {
+      "host_win": "45",
+      "guest_win": "29",
+      "draw": "26",
+      "result": 3
+    },
+    {
+      "host_win": "62",
+      "guest_win": "14",
+      "draw": "23",
+      "result": 3
+    }
+  ],
+  "2019-07-04": [
+    {
+      "host_win": "25",
+      "guest_win": "50",
+      "draw": "26",
+      "result": 0
+    },
+    {
+      "host_win": "53",
+      "guest_win": "22",
+      "draw": "25",
+      "result": 3
+    },
+    {
+      "host_win": "55",
+      "guest_win": "21",
+      "draw": "24",
+      "result": 0
+    },
+    {
+      "host_win": "55",
+      "guest_win": "22",
+      "draw": "23",
+      "result": 1
+    }
+  ],
+  "2019-07-07": [
+    {
+      "host_win": "51",
+      "guest_win": "21",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "51",
+      "guest_win": "24",
+      "draw": "25",
+      "result": 0
+    },
+    {
+      "host_win": "34",
+      "guest_win": "36",
+      "draw": "30",
+      "result": 3
+    },
+    {
+      "host_win": "51",
+      "guest_win": "21",
+      "draw": "28",
+      "result": 1
+    },
+    {
+      "host_win": "49",
+      "guest_win": "24",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "66",
+      "guest_win": "13",
+      "draw": "22",
+      "result": 1
+    },
+    {
+      "host_win": "28",
+      "guest_win": "39",
+      "draw": "32",
+      "result": 1
+    },
+    {
+      "host_win": "40",
+      "guest_win": "28",
+      "draw": "32",
+      "result": 3
+    },
+    {
+      "host_win": "48",
+      "guest_win": "25",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "39",
+      "guest_win": "34",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "44",
+      "guest_win": "25",
+      "draw": "31",
+      "result": 1
+    },
+    {
+      "host_win": "71",
+      "guest_win": "9",
+      "draw": "20",
+      "result": 3
+    },
+    {
+      "host_win": "48",
+      "guest_win": "25",
+      "draw": "27",
+      "result": 3
+    },
+    {
+      "host_win": "41",
+      "guest_win": "30",
+      "draw": "29",
+      "result": 3
+    },
+    {
+      "host_win": "73",
+      "guest_win": "9",
+      "draw": "18",
+      "result": 3
+    },
+    {
+      "host_win": "63",
+      "guest_win": "13",
+      "draw": "24",
+      "result": 3
+    },
+    {
+      "host_win": "30",
+      "guest_win": "40",
+      "draw": "29",
+      "result": 1
+    },
+    {
+      "host_win": "61",
+      "guest_win": "17",
+      "draw": "22",
+      "result": 1
+    },
+    {
+      "host_win": "52",
+      "guest_win": "20",
+      "draw": "28",
+      "result": 3
+    },
+    {
+      "host_win": "73",
+      "guest_win": "9",
+      "draw": "19",
+      "result": 1
+    },
+    {
+      "host_win": "58",
+      "guest_win": "20",
+      "draw": "22",
+      "result": 0
+    },
+    {
+      "host_win": "27",
+      "guest_win": "45",
+      "draw": "29",
+      "result": 1
+    }
+  ]
+}
